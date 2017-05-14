@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.12",
+  "iOS" : [
+    {
+      "hash" : "ae0a81a2662c9d61a88bf9d622b873dc1ba4b906ee36aa517166ccaedf7802b9",
+      "name" : "SKTiled"
+    }
+  ]
+}
