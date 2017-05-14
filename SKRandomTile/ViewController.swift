@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SKTiled
 
 class ViewController: UIViewController {
 
